@@ -41,3 +41,9 @@
         "test": "phpunit"
     }
 }
+<?php
+//fim do arquivo composer.json
+
+function teste(){
+return TRUE;
+}
